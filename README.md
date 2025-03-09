@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NitramVX
-- 👀 I’m interested in ... Learning this world of coding! been looking for something new to learn and this has been grabing my interest.
-- 🌱 I’m currently learning ... Web development, and we'll se what more
-<!--- - 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me ... --->
+- 👀 I’m Learning more and more about coding, been looking everything new to learn.
+- 🌱 I’m currently on front-end, and we'll see what more to come.
 
 <!---
 NitramVX/NitramVX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
